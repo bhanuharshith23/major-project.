@@ -146,10 +146,25 @@ The project implementation is available in the `source_code.py` file.
 
 The project successfully analyzes customer reviews of iPhone 14 and classifies sentiments using NLP techniques.
 
-### Output Screenshot
+## Project Screenshots
 
-![Project Result](results/result.png/outputs.zip
-)
+### Login Page
+![Login Page](results/Login_page.jpeg)
+
+### Project Overview
+![Project Overview](results/Project_overview.jpeg)
+
+### Review Analysis Dashboard
+![Dashboard](results/Review_analysis_dashboard.jpeg)
+
+### Review Submission Page
+![Review Submission](results/review_submission.jpeg)
+
+### Review Logs
+![Review Logs](results/review_logs_page.jpeg)
+
+### Complete Results Overview
+![Results](results/z_project_result.png)
 
 ### Key Outcomes
 
