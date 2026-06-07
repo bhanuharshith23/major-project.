@@ -131,3 +131,9 @@ Interested in Data Science, NLP, and Machine Learning
 ## 📜 License
 
 This project is developed for educational and academic purposes.
+
+## Dataset
+
+The dataset used for this project consists of iPhone 14 customer reviews collected from publicly available online sources.
+
+Due to dataset availability and licensing considerations, the dataset is not included in this repository.
